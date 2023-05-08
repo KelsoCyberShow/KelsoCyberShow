@@ -1,8 +1,8 @@
-<h1>Hi, I'm Kyle! <br/>Cybersecurity Specialist
+<h1>Hi, I'm Kyle! Cybersecurity Specialist
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Azure / Cloud Projects </b>
+- <b>Azure / Cloud Cyber Security Projects </b>
   - [Creating a Live Honeynet in Azure](https://github.com/KelsoCyberShow/Azure-Honeynet)
 
 
