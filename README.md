@@ -4,24 +4,20 @@ Welcome to my showcase!***
 <h2>🔒💻 Cyber Security / IT Projects 💻🔒</h2>
 
 - ***<h3>[Creating a Live Honeynet in Azure](https://github.com/KelsoCyberShow/Azure-Honeynet)</h3>***
-(For a general overview click ⬆️, otherwise for more in-depth click ⬇️)
-    - [Deploying Active Directory within Azure. Creating users and Admins](https://github.com/cesarias/Active_Directory)🔰
-    - [Connecting to a new VPN server in a different Country](https://github.com/cesarias/VPN)👹
-    - [Log Analytic workspaces in Sentinel (Honey Net)](https://github.com/cesarias/Logging)🍯
-    - [Microsoft Sentinel (SIEM) / Honey Net](https://github.com/KelsoCyberShow/Sentinel)👁️ 
-    - [Secure Cloud Configuration in Azure (Honey Net)](https://github.com/cesarias/Secure_Cloud)🔒
-    - [Azure Cloud Detection](https://github.com/cesarias/detect)🔎
-    - [Azure Firewall](https://github.com/cesarias/firewall) 🔥🧱
-    - [Azure DDOS Protection ](https://github.com/cesarias/ddos)🛡️
+
    
    
 
   
 - ***<h3>osTicket (Help Desk Ticketing System) installed on VM through Azure</h3>***
   - [ osTicket Installation](https://github.com/cesarias/os-ticket)
+    
+<h2> Certifications </h2>
+    
+- <a href="https://i.imgur.com/VDnUeOT.png">CompTIA Security +</a>
   
 
-<h2> 📲 Connect with me:</h2>
+<h2> 📲 Connect with me</h2>
 
 
 
