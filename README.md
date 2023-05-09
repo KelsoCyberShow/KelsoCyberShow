@@ -5,12 +5,6 @@ Welcome to my showcase!***
 
 - ***<h3>[Creating a Live Honeynet in Azure](https://github.com/KelsoCyberShow/Azure-Honeynet)</h3>***
 
-   
-   
-
-  
-- ***<h3>osTicket (Help Desk Ticketing System) installed on VM through Azure</h3>***
-  - [ osTicket Installation](https://github.com/cesarias/os-ticket)
     
 <h2> Certifications </h2>
     
