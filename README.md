@@ -8,7 +8,7 @@ Welcome to my showcase!***
     - [Deploying Active Directory within Azure. Creating users and Admins](https://github.com/cesarias/Active_Directory)🔰
     - [Connecting to a new VPN server in a different Country](https://github.com/cesarias/VPN)👹
     - [Log Analytic workspaces in Sentinel (Honey Net)](https://github.com/cesarias/Logging)🍯
-    - [Microsoft Sentinel (SIEM) / Honey Net](https://github.com/cesarias/Honey_Net)👁️ 
+    - [Microsoft Sentinel (SIEM) / Honey Net](https://github.com/KelsoCyberShow/Sentinel)👁️ 
     - [Secure Cloud Configuration in Azure (Honey Net)](https://github.com/cesarias/Secure_Cloud)🔒
     - [Azure Cloud Detection](https://github.com/cesarias/detect)🔎
     - [Azure Firewall](https://github.com/cesarias/firewall) 🔥🧱
